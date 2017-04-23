@@ -1,0 +1,2877 @@
+events: Ticks
+summary: 3
+fn=<method 'find' of 'bytearray' objects>
+0  0
+
+fn=<method 'translate' of 'bytearray' objects>
+0  0
+
+fn=<method 'decode' of 'bytes' objects>
+0  0
+
+fn=<method 'join' of 'bytes' objects>
+0  0
+
+fn=<method 'rstrip' of 'bytes' objects>
+0  0
+
+fn=<method 'append' of 'list' objects>
+0  0
+
+fn=<method 'extend' of 'list' objects>
+0  0
+cfl=<frozen importlib._bootstrap_external>
+cfn=<genexpr>
+calls=8 1202
+0 0
+
+fn=<built-in method from_bytes>
+0  0
+
+fn=<method '__contains__' of 'dict' objects>
+0  0
+
+fn=<method 'get' of 'dict' objects>
+0  0
+
+fn=<method 'setdefault' of 'dict' objects>
+0  0
+
+fn=<method 'items' of 'dict' objects>
+0  0
+
+fn=<method 'values' of 'dict' objects>
+0  0
+
+fn=<method 'update' of 'dict' objects>
+0  0
+
+fn=<method 'copy' of 'dict' objects>
+0  0
+
+fn=<method 'encode' of 'str' objects>
+0  0
+
+fn=<method 'replace' of 'str' objects>
+0  0
+
+fn=<method 'split' of 'str' objects>
+0  0
+
+fn=<method 'rsplit' of 'str' objects>
+0  0
+
+fn=<method 'join' of 'str' objects>
+0  0
+
+fn=<method 'find' of 'str' objects>
+0  0
+
+fn=<method 'lower' of 'str' objects>
+0  0
+
+fn=<method 'lstrip' of 'str' objects>
+0  0
+
+fn=<method 'rstrip' of 'str' objects>
+0  0
+
+fn=<method 'rpartition' of 'str' objects>
+0  0
+
+fn=<method 'strip' of 'str' objects>
+0  0
+
+fn=<method 'upper' of 'str' objects>
+0  0
+
+fn=<method 'startswith' of 'str' objects>
+0  0
+
+fn=<method 'endswith' of 'str' objects>
+0  0
+
+fn=<method 'isdigit' of 'str' objects>
+0  0
+
+fn=<method 'format' of 'str' objects>
+0  0
+
+fn=<built-in method builtins.__build_class__>
+0  0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+cfn=PickleSerializer
+calls=1 9
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+cfn=FallbackStorage
+calls=1 6
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=Message
+calls=1 10
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=BaseStorage
+calls=1 57
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+cfn=MessageEncoder
+calls=1 11
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+cfn=MessageDecoder
+calls=1 28
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+cfn=CookieStorage
+calls=1 53
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/session.py
+cfn=SessionStorage
+calls=1 11
+0 0
+
+fn=<built-in method builtins.__import__>
+0  0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_and_load
+calls=1 958
+0 0
+
+fn=<built-in method builtins.any>
+0  0
+cfl=<frozen importlib._bootstrap>
+cfn=<genexpr>
+calls=24 307
+0 0
+
+fn=<built-in method builtins.delattr>
+0  0
+
+fn=<built-in method builtins.exec>
+0  0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+cfn=<module>
+calls=1 1
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+cfn=<module>
+calls=1 1
+0 1
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=<module>
+calls=1 1
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/utils.py
+cfn=<module>
+calls=1 1
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+cfn=<module>
+calls=1 1
+0 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/session.py
+cfn=<module>
+calls=1 1
+0 0
+
+fn=<built-in method builtins.getattr>
+0  0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=2 51
+0 0
+
+fn=<built-in method builtins.hasattr>
+0  0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+cfn=__get__
+calls=1 91
+0 0
+
+fn=<built-in method builtins.id>
+0  0
+
+fn=<built-in method builtins.isinstance>
+0  0
+
+fn=<built-in method builtins.issubclass>
+0  0
+
+fn=<built-in method builtins.iter>
+0  0
+
+fn=<built-in method builtins.len>
+0  0
+
+fn=<built-in method builtins.min>
+0  0
+
+fn=<built-in method builtins.ord>
+0  0
+
+fn=<built-in method builtins.print>
+0  0
+
+fn=<built-in method builtins.setattr>
+0  0
+
+fn=<built-in method _imp.acquire_lock>
+0  0
+
+fn=<built-in method _imp.release_lock>
+0  0
+
+fn=<built-in method _imp.is_frozen>
+0  0
+
+fn=<built-in method _imp._fix_co_filename>
+0  0
+
+fn=<built-in method marshal.loads>
+0  0
+
+fn=<built-in method _thread.allocate_lock>
+0  0
+
+fn=<built-in method _thread.get_ident>
+0  0
+
+fn=<built-in method posix.stat>
+0  0
+
+fn=<built-in method posix.listdir>
+0  0
+
+fn=<built-in method posix.fspath>
+0  0
+
+fn=<method 'match' of '_sre.SRE_Pattern' objects>
+0  0
+
+fn=<method 'search' of '_sre.SRE_Pattern' objects>
+0  0
+
+fn=<method 'group' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<method 'end' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<method 'groups' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<method 'groupdict' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<built-in method _sre.compile>
+0  0
+
+fn=<method 'clear' of 'collections.deque' objects>
+0  0
+
+fn=<method 'read' of '_io.FileIO' objects>
+0  0
+
+fl=<frozen importlib._bootstrap>
+fn=_new_module
+35 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_relax_case
+37 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+57 0
+cfn=<built-in method _thread.allocate_lock>
+calls=14 0
+57 0
+
+fl=<frozen importlib._bootstrap>
+fn=acquire
+77 0
+cfn=<built-in method _thread.get_ident>
+calls=7 0
+77 0
+
+fl=<frozen importlib._bootstrap>
+fn=release
+102 0
+cfn=<built-in method _thread.get_ident>
+calls=7 0
+102 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+142 0
+
+fl=<frozen importlib._bootstrap>
+fn=__enter__
+146 0
+cfl=<frozen importlib._bootstrap>
+cfn=_get_module_lock
+calls=6 159
+146 0
+cfn=<built-in method _imp.release_lock>
+calls=6 0
+146 0
+cfl=<frozen importlib._bootstrap>
+cfn=acquire
+calls=6 77
+146 0
+
+fl=<frozen importlib._bootstrap>
+fn=__exit__
+153 0
+cfl=<frozen importlib._bootstrap>
+cfn=release
+calls=6 102
+153 0
+
+fl=<frozen importlib._bootstrap>
+fn=cb
+173 0
+
+fl=<frozen importlib._bootstrap>
+fn=_get_module_lock
+159 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=7 57
+159 0
+
+fl=<frozen importlib._bootstrap>
+fn=_lock_unlock_module
+178 0
+cfl=<frozen importlib._bootstrap>
+cfn=_get_module_lock
+calls=1 159
+178 0
+cfn=<built-in method _imp.release_lock>
+calls=1 0
+178 0
+cfl=<frozen importlib._bootstrap>
+cfn=acquire
+calls=1 77
+178 0
+cfl=<frozen importlib._bootstrap>
+cfn=release
+calls=1 102
+178 0
+
+fl=<frozen importlib._bootstrap>
+fn=_call_with_frames_removed
+197 0
+cfn=<built-in method builtins.exec>
+calls=6 0
+197 1
+cfn=<built-in method builtins.__import__>
+calls=1 0
+197 0
+
+fl=<frozen importlib._bootstrap>
+fn=_verbose_message
+208 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+293 0
+
+fl=<frozen importlib._bootstrap>
+fn=__enter__
+297 0
+
+fl=<frozen importlib._bootstrap>
+fn=<genexpr>
+307 0
+
+fl=<frozen importlib._bootstrap>
+fn=__exit__
+304 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=6 208
+304 0
+cfn=<built-in method builtins.any>
+calls=6 0
+304 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_r_long
+52 0
+cfn=<built-in method from_bytes>
+calls=12 0
+52 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+355 0
+
+fl=<frozen importlib._bootstrap>
+fn=cached
+389 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_get_cached
+calls=6 361
+389 0
+
+fl=<frozen importlib._bootstrap>
+fn=parent
+402 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=6 0
+402 0
+
+fl=<frozen importlib._bootstrap>
+fn=has_location
+410 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=<listcomp>
+59 0
+cfn=<method 'rstrip' of 'str' objects>
+calls=84 0
+59 0
+
+fl=<frozen importlib._bootstrap>
+fn=_init_module_attrs
+493 0
+cfn=<built-in method builtins.getattr>
+calls=36 0
+493 0
+cfl=<frozen importlib._bootstrap>
+cfn=parent
+calls=6 402
+493 0
+cfl=<frozen importlib._bootstrap>
+cfn=has_location
+calls=6 410
+493 0
+cfl=<frozen importlib._bootstrap>
+cfn=cached
+calls=12 389
+493 0
+
+fl=<frozen importlib._bootstrap>
+fn=module_from_spec
+553 0
+cfn=<built-in method builtins.hasattr>
+calls=6 0
+553 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=create_module
+calls=6 669
+553 0
+cfl=<frozen importlib._bootstrap>
+cfn=_new_module
+calls=6 35
+553 0
+cfl=<frozen importlib._bootstrap>
+cfn=_init_module_attrs
+calls=6 493
+553 0
+
+fl=<frozen importlib._bootstrap>
+fn=_load_unlocked
+641 0
+cfn=<built-in method builtins.hasattr>
+calls=6 0
+641 0
+cfl=<frozen importlib._bootstrap>
+cfn=module_from_spec
+calls=6 553
+641 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=6 293
+641 0
+cfl=<frozen importlib._bootstrap>
+cfn=__enter__
+calls=6 297
+641 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=exec_module
+calls=6 672
+641 1
+cfl=<frozen importlib._bootstrap>
+cfn=__exit__
+calls=6 304
+641 0
+
+fl=<frozen importlib._bootstrap>
+fn=find_spec
+698 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_join
+57 0
+cfn=<method 'join' of 'str' objects>
+calls=36 0
+57 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=<listcomp>
+calls=36 59
+57 0
+
+fl=<frozen importlib._bootstrap>
+fn=find_spec
+771 0
+cfn=<built-in method _imp.is_frozen>
+calls=6 0
+771 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_split
+63 0
+cfn=<built-in method builtins.len>
+calls=12 0
+63 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=12 0
+63 0
+
+fl=<frozen importlib._bootstrap>
+fn=__enter__
+834 0
+cfn=<built-in method _imp.acquire_lock>
+calls=18 0
+834 0
+
+fl=<frozen importlib._bootstrap>
+fn=__exit__
+838 0
+cfn=<built-in method _imp.release_lock>
+calls=18 0
+838 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_stat
+75 0
+cfn=<built-in method posix.stat>
+calls=19 0
+75 0
+
+fl=<frozen importlib._bootstrap>
+fn=_find_spec
+861 0
+cfl=<frozen importlib._bootstrap>
+cfn=__enter__
+calls=18 834
+861 0
+cfl=<frozen importlib._bootstrap>
+cfn=find_spec
+calls=6 698
+861 0
+cfl=<frozen importlib._bootstrap>
+cfn=__exit__
+calls=18 838
+861 0
+cfl=<frozen importlib._bootstrap>
+cfn=find_spec
+calls=6 771
+861 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=find_spec
+calls=6 1149
+861 0
+
+fl=<frozen importlib._bootstrap>
+fn=_sanity_check
+908 0
+cfn=<built-in method builtins.isinstance>
+calls=3 0
+908 0
+
+fl=<frozen importlib._bootstrap>
+fn=_find_and_load_unlocked
+931 0
+cfn=<built-in method builtins.setattr>
+calls=6 0
+931 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=12 0
+931 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_spec
+calls=6 861
+931 0
+cfl=<frozen importlib._bootstrap>
+cfn=_load_unlocked
+calls=6 641
+931 2
+
+fl=<frozen importlib._bootstrap>
+fn=_find_and_load
+958 0
+cfl=<frozen importlib._bootstrap>
+cfn=cb
+calls=6 173
+958 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=6 142
+958 0
+cfl=<frozen importlib._bootstrap>
+cfn=__enter__
+calls=6 146
+958 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_and_load_unlocked
+calls=6 931
+958 2
+cfl=<frozen importlib._bootstrap>
+cfn=__exit__
+calls=6 153
+958 0
+
+fl=<frozen importlib._bootstrap>
+fn=_gcd_import
+964 0
+cfl=<frozen importlib._bootstrap>
+cfn=_sanity_check
+calls=3 908
+964 0
+cfn=<built-in method _imp.acquire_lock>
+calls=3 0
+964 0
+cfl=<frozen importlib._bootstrap>
+cfn=_lock_unlock_module
+calls=1 178
+964 0
+cfl=<frozen importlib._bootstrap>
+cfn=cb
+calls=1 173
+964 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_and_load
+calls=2 958
+964 2
+
+fl=<frozen importlib._bootstrap>
+fn=_handle_fromlist
+989 0
+cfn=<built-in method builtins.hasattr>
+calls=32 0
+989 0
+cfl=<frozen importlib._bootstrap>
+cfn=_call_with_frames_removed
+calls=1 197
+989 0
+cfn=<method 'format' of 'str' objects>
+calls=1 0
+989 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_is_mode_type
+85 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_stat
+calls=7 75
+85 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_isfile
+94 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_is_mode_type
+calls=6 85
+94 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_isdir
+99 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_is_mode_type
+calls=1 85
+99 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=cache_from_source
+263 0
+cfn=<method 'join' of 'str' objects>
+calls=12 0
+263 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=12 0
+263 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_join
+calls=12 57
+263 0
+cfn=<built-in method posix.fspath>
+calls=12 0
+263 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_split
+calls=12 63
+263 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_get_cached
+361 0
+cfn=<method 'endswith' of 'str' objects>
+calls=6 0
+361 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=cache_from_source
+calls=6 263
+361 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_check_name_wrapper
+393 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_filename
+calls=6 825
+393 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_validate_bytecode_header
+430 0
+cfn=<built-in method builtins.len>
+calls=12 0
+430 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_r_long
+calls=12 52
+430 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_compile_bytecode
+485 0
+cfn=<built-in method builtins.isinstance>
+calls=6 0
+485 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=6 208
+485 0
+cfn=<built-in method marshal.loads>
+calls=6 0
+485 0
+cfn=<built-in method _imp._fix_co_filename>
+calls=6 0
+485 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=spec_from_file_location
+524 0
+cfn=<built-in method posix.fspath>
+calls=6 0
+524 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=6 355
+524 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=create_module
+669 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=exec_module
+672 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_code
+calls=6 743
+672 0
+cfl=<frozen importlib._bootstrap>
+cfn=_call_with_frames_removed
+calls=6 197
+672 1
+
+fl=<frozen importlib._bootstrap_external>
+fn=get_code
+743 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=6 208
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=cache_from_source
+calls=6 263
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_check_name_wrapper
+calls=6 393
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=path_stats
+calls=6 840
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_data
+calls=6 830
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_validate_bytecode_header
+calls=6 430
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_compile_bytecode
+calls=6 485
+743 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=__init__
+800 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=get_filename
+825 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=get_data
+830 0
+cfn=<method 'read' of '_io.FileIO' objects>
+calls=6 0
+830 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=path_stats
+840 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_stat
+calls=6 75
+840 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_hooks
+1067 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=path_hook_for_FileFinder
+calls=1 1322
+1067 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_importer_cache
+1080 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_hooks
+calls=1 1067
+1080 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_get_spec
+1117 0
+cfn=<built-in method builtins.hasattr>
+calls=6 0
+1117 0
+cfn=<built-in method builtins.isinstance>
+calls=6 0
+1117 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_importer_cache
+calls=6 1080
+1117 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=find_spec
+calls=6 1233
+1117 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=find_spec
+1149 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_get_spec
+calls=6 1117
+1149 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=<genexpr>
+1202 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=__init__
+1196 0
+cfn=<method 'extend' of 'list' objects>
+calls=3 0
+1196 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_get_spec
+1228 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=__init__
+calls=6 800
+1228 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=spec_from_file_location
+calls=6 524
+1228 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=find_spec
+1233 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=6 0
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_stat
+calls=6 75
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_relax_case
+calls=6 37
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_join
+calls=24 57
+1233 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=24 208
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_isfile
+calls=6 94
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_get_spec
+calls=6 1228
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_fill_cache
+calls=1 1281
+1233 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=<setcomp>
+1310 0
+cfn=<method 'lower' of 'str' objects>
+calls=6 0
+1310 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_fill_cache
+1281 0
+cfn=<method 'startswith' of 'str' objects>
+calls=2 0
+1281 0
+cfn=<built-in method posix.listdir>
+calls=1 0
+1281 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=<setcomp>
+calls=1 1310
+1281 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=path_hook_for_FileFinder
+1322 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_isdir
+calls=1 99
+1322 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=__init__
+calls=1 1196
+1322 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py
+fn=search
+179 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=1 0
+179 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py
+cfn=_compile
+calls=1 286
+179 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py
+fn=_compile
+286 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+286 0
+cfn=<built-in method builtins.len>
+calls=1 0
+286 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=isstring
+calls=1 539
+286 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=compile
+calls=1 557
+286 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/enum.py
+cfn=__and__
+calls=2 801
+286 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_mk_bitmap
+376 0
+cfn=<built-in method builtins.len>
+calls=2 0
+376 0
+cfn=<method 'translate' of 'bytearray' objects>
+calls=2 0
+376 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=<listcomp>
+calls=2 378
+376 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_optimize_charset
+250 0
+cfn=<method 'append' of 'list' objects>
+calls=8 0
+250 0
+cfn=<built-in method builtins.len>
+calls=8 0
+250 0
+cfn=<method 'find' of 'bytearray' objects>
+calls=10 0
+250 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_mk_bitmap
+calls=2 376
+250 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=<listcomp>
+378 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/enum.py
+fn=__call__
+265 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/enum.py
+cfn=__new__
+calls=4 515
+265 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/enum.py
+fn=__new__
+515 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_compile
+64 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+64 0
+cfn=<built-in method builtins.len>
+calls=2 0
+64 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_compile_charset
+calls=1 223
+64 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/enum.py
+fn=__and__
+801 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+801 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/enum.py
+cfn=__call__
+calls=4 265
+801 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_compile_charset
+223 0
+cfn=<method 'append' of 'list' objects>
+calls=6 0
+223 0
+cfn=<method 'extend' of 'list' objects>
+calls=2 0
+223 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_optimize_charset
+calls=2 250
+223 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_get_literal_prefix
+414 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_compile_info
+482 0
+cfn=<method 'append' of 'list' objects>
+calls=5 0
+482 0
+cfn=<built-in method builtins.len>
+calls=2 0
+482 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=getwidth
+calls=1 173
+482 0
+cfn=<built-in method builtins.min>
+calls=1 0
+482 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_get_literal_prefix
+calls=1 414
+482 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_get_charset_prefix
+calls=1 441
+482 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_compile_charset
+calls=1 223
+482 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_get_charset_prefix
+441 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=isstring
+539 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+539 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=compile
+557 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=isstring
+calls=1 539
+557 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=parse
+calls=1 845
+557 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_code
+calls=1 542
+557 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=groups
+calls=2 81
+557 0
+cfn=<method 'items' of 'dict' objects>
+calls=1 0
+557 0
+cfn=<built-in method _sre.compile>
+calls=1 0
+557 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+fn=_code
+542 0
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+542 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_compile_info
+calls=1 482
+542 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+cfn=_compile
+calls=1 64
+542 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=__init__
+76 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=__init__
+111 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=groups
+81 0
+cfn=<built-in method builtins.len>
+calls=2 0
+81 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=append
+171 0
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+171 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=getwidth
+173 0
+cfn=<built-in method builtins.min>
+calls=2 0
+173 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=__init__
+223 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+223 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=__next
+calls=1 232
+223 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=get
+253 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=__next
+calls=8 232
+253 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=__next
+232 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=match
+248 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=__next
+calls=4 232
+248 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=tell
+285 0
+cfn=<built-in method builtins.len>
+calls=2 0
+285 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=_parse_sub
+407 0
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+407 0
+cfn=<built-in method builtins.len>
+calls=1 0
+407 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=tell
+calls=1 285
+407 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=_parse
+calls=1 469
+407 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=match
+calls=1 248
+407 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=_parse
+469 0
+cfn=<method 'append' of 'list' objects>
+calls=4 0
+469 0
+cfn=<built-in method builtins.len>
+calls=2 0
+469 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=tell
+calls=1 285
+469 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=1 111
+469 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=get
+calls=8 253
+469 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=match
+calls=4 248
+469 0
+cfn=<built-in method builtins.ord>
+calls=6 0
+469 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=append
+calls=1 171
+469 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=fix_flags
+829 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+829 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+fn=parse
+845 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=1 223
+845 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=1 76
+845 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=_parse_sub
+calls=1 407
+845 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+cfn=fix_flags
+calls=1 829
+845 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=__setattr__
+262 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=__init__
+255 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__setattr__
+calls=1 262
+255 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=__get__
+32 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=COOKIES
+calls=1 132
+32 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__init__.py
+fn=import_module
+108 0
+cfn=<method 'startswith' of 'str' objects>
+calls=3 0
+108 0
+cfl=<frozen importlib._bootstrap>
+cfn=_gcd_import
+calls=3 964
+108 2
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/module_loading.py
+fn=import_string
+9 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__init__.py
+cfn=import_module
+calls=2 108
+9 2
+cfn=<built-in method builtins.getattr>
+calls=2 0
+9 0
+cfn=<method 'rsplit' of 'str' objects>
+calls=2 0
+9 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+fn=_import_module
+80 0
+cfn=<built-in method builtins.__import__>
+calls=1 0
+80 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+fn=__get__
+91 0
+cfn=<built-in method builtins.setattr>
+calls=1 0
+91 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+cfn=_resolve
+calls=1 114
+91 0
+cfn=<built-in method builtins.delattr>
+calls=1 0
+91 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+fn=_resolve
+114 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+cfn=_import_module
+calls=1 80
+114 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+fn=force_text
+58 0
+cfn=<built-in method builtins.issubclass>
+calls=5 0
+58 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+fn=force_bytes
+112 0
+cfn=<method 'encode' of 'str' objects>
+calls=2 0
+112 0
+cfn=<built-in method builtins.isinstance>
+calls=8 0
+112 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+fn=escape_uri_path
+217 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=force_bytes
+calls=2 112
+217 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py
+cfn=quote
+calls=2 733
+217 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+fn=repercent_broken_unicode
+234 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=2 0
+234 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+fn=python_2_unicode_compatible
+828 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=__init__
+372 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__init__
+calls=1 255
+372 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/deprecation.py
+fn=__call__
+135 0
+cfn=<built-in method builtins.hasattr>
+calls=14 0
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+cfn=inner
+calls=7 38
+135 3
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/security.py
+cfn=process_request
+calls=1 20
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+cfn=process_request
+calls=1 18
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/common.py
+cfn=process_request
+calls=1 44
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/auth/middleware.py
+cfn=process_request
+calls=1 17
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/middleware.py
+cfn=process_request
+calls=1 11
+135 2
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/clickjacking.py
+cfn=process_response
+calls=1 30
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/middleware.py
+cfn=process_response
+calls=1 14
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+cfn=process_response
+calls=1 318
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/common.py
+cfn=process_response
+calls=1 106
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+cfn=process_response
+calls=1 22
+135 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/security.py
+cfn=process_response
+calls=1 30
+135 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py
+fn=quote
+733 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+733 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py
+cfn=quote_from_bytes
+calls=2 794
+733 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py
+fn=<listcomp>
+807 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py
+fn=quote_from_bytes
+794 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=2 0
+794 0
+cfn=<built-in method builtins.isinstance>
+calls=4 0
+794 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py
+cfn=<listcomp>
+calls=2 807
+794 0
+cfn=<method 'rstrip' of 'bytes' objects>
+calls=2 0
+794 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+fn=__getattr__
+51 0
+cfn=<built-in method builtins.getattr>
+calls=15 0
+51 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=_make_id
+17 0
+cfn=<built-in method builtins.hasattr>
+calls=1 0
+17 0
+cfn=<built-in method builtins.id>
+calls=1 0
+17 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=<listcomp>
+192 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/__init__.py
+cfn=reset_queries
+calls=1 52
+192 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/__init__.py
+cfn=close_old_connections
+calls=1 62
+192 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=send
+170 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+170 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_live_receivers
+calls=1 248
+170 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=<listcomp>
+calls=1 192
+170 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=_clear_dead_receivers
+237 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=_live_receivers
+248 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_clear_dead_receivers
+calls=1 237
+248 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_make_id
+calls=1 17
+248 0
+cfn=<method 'append' of 'list' objects>
+calls=4 0
+248 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+248 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/__init__.py
+fn=reset_queries
+52 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=all
+calls=1 225
+52 0
+cfn=<method 'clear' of 'collections.deque' objects>
+calls=1 0
+52 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/__init__.py
+fn=close_old_connections
+62 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=all
+calls=1 225
+62 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+cfn=close_if_unusable_or_obsolete
+calls=1 502
+62 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+fn=load_backend
+105 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__init__.py
+cfn=import_module
+calls=1 108
+105 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+fn=ensure_defaults
+170 0
+cfn=<method 'setdefault' of 'dict' objects>
+calls=11 0
+170 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+fn=prepare_test_settings
+191 0
+cfn=<method 'setdefault' of 'dict' objects>
+calls=5 0
+191 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+fn=__getitem__
+204 0
+cfn=<built-in method builtins.hasattr>
+calls=3 0
+204 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=ensure_defaults
+calls=1 170
+204 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=prepare_test_settings
+calls=1 191
+204 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=load_backend
+calls=1 105
+204 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+cfn=__init__
+calls=1 47
+204 0
+cfn=<built-in method builtins.setattr>
+calls=1 0
+204 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+204 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+fn=__iter__
+222 0
+cfn=<built-in method builtins.iter>
+calls=3 0
+222 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+fn=<listcomp>
+226 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=__getitem__
+calls=3 204
+226 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+fn=all
+225 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=__iter__
+calls=3 222
+225 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=<listcomp>
+calls=3 226
+225 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/http.py
+fn=is_same_domain
+279 0
+cfn=<method 'lower' of 'str' objects>
+calls=2 0
+279 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/base.py
+fn=set_script_prefix
+103 0
+cfn=<method 'endswith' of 'str' objects>
+calls=1 0
+103 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/base.py
+fn=set_urlconf
+131 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+fn=<listcomp>
+42 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+fn=<listcomp>
+40 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+fn=__init__
+32 0
+cfn=<built-in method builtins.hasattr>
+calls=3 0
+32 0
+cfn=<method 'join' of 'str' objects>
+calls=12 0
+32 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=<listcomp>
+calls=2 40
+32 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=<listcomp>
+calls=2 42
+32 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+fn=__getitem__
+55 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/cookie.py
+fn=parse_cookie
+59 0
+cfn=<method 'strip' of 'str' objects>
+calls=16 0
+59 0
+cfn=<method 'split' of 'str' objects>
+calls=9 0
+59 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/cookies.py
+cfn=_unquote
+calls=8 195
+59 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+fn=_get_raw_host
+76 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+76 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/cookies.py
+fn=_unquote
+195 0
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+195 0
+cfn=<built-in method builtins.len>
+calls=9 0
+195 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=2 0
+195 0
+cfn=<method 'join' of 'str' objects>
+calls=1 0
+195 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/cookies.py
+fn=__init__
+504 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+fn=get_full_path
+123 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+123 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=escape_uri_path
+calls=2 217
+123 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+fn=get_host
+95 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+95 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+cfn=_get_raw_host
+calls=1 76
+95 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+cfn=split_domain_port
+calls=1 541
+95 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+cfn=validate_host
+calls=1 563
+95 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=__init__
+41 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+41 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/cookies.py
+cfn=__init__
+calls=1 504
+41 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=charset
+calls=1 79
+41 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__setitem__
+calls=1 150
+41 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+fn=split_domain_port
+541 0
+cfn=<method 'endswith' of 'str' objects>
+calls=1 0
+541 0
+cfn=<built-in method builtins.len>
+calls=1 0
+541 0
+cfn=<method 'rsplit' of 'str' objects>
+calls=1 0
+541 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+541 0
+cfn=<method 'match' of '_sre.SRE_Pattern' objects>
+calls=1 0
+541 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+fn=validate_host
+563 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/http.py
+cfn=is_same_domain
+calls=2 279
+563 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=reason_phrase
+67 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+67 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=charset
+79 0
+cfn=<method 'replace' of 'str' objects>
+calls=1 0
+79 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+79 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=2 0
+79 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=get
+calls=2 173
+79 0
+cfn=<method 'group' of '_sre.SRE_Match' objects>
+calls=1 0
+79 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=_convert_to_charset
+114 0
+cfn=<method 'encode' of 'str' objects>
+calls=6 0
+114 0
+cfn=<built-in method builtins.isinstance>
+calls=24 0
+114 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=__setitem__
+150 0
+cfn=<method 'lower' of 'str' objects>
+calls=3 0
+150 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=_convert_to_charset
+calls=6 114
+150 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/cgi.py
+fn=_parseparam
+301 0
+cfn=<method 'find' of 'str' objects>
+calls=1 0
+301 0
+cfn=<built-in method builtins.len>
+calls=1 0
+301 0
+cfn=<method 'strip' of 'str' objects>
+calls=1 0
+301 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/cgi.py
+fn=parse_header
+313 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/cgi.py
+cfn=_parseparam
+calls=2 301
+313 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=has_header
+164 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+164 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=items
+170 0
+cfn=<method 'values' of 'dict' objects>
+calls=1 0
+170 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=get
+173 0
+cfn=<method 'get' of 'dict' objects>
+calls=3 0
+173 0
+cfn=<method 'lower' of 'str' objects>
+calls=3 0
+173 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=make_bytes
+235 0
+cfn=<method 'encode' of 'str' objects>
+calls=1 0
+235 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+235 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=charset
+calls=1 79
+235 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=__init__
+300 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__init__
+calls=1 41
+300 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=content
+calls=1 325
+300 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=content
+321 0
+cfn=<method 'join' of 'bytes' objects>
+calls=1 0
+321 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+fn=content
+325 0
+cfn=<built-in method builtins.hasattr>
+calls=1 0
+325 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+325 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=make_bytes
+calls=1 235
+325 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+fn=resolve
+189 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=1 0
+189 0
+cfn=<method 'update' of 'dict' objects>
+calls=1 0
+189 0
+cfn=<method 'groupdict' of '_sre.SRE_Match' objects>
+calls=1 0
+189 0
+cfn=<method 'groups' of '_sre.SRE_Match' objects>
+calls=1 0
+189 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=__init__
+calls=1 32
+189 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+fn=resolve
+356 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+356 0
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+356 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=3 0
+356 0
+cfn=<method 'update' of 'dict' objects>
+calls=2 0
+356 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=resolve
+calls=2 356
+356 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=force_text
+calls=3 58
+356 0
+cfn=<method 'end' of '_sre.SRE_Match' objects>
+calls=2 0
+356 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=resolve
+calls=1 189
+356 0
+cfn=<method 'groupdict' of '_sre.SRE_Match' objects>
+calls=2 0
+356 0
+cfn=<method 'groups' of '_sre.SRE_Match' objects>
+calls=2 0
+356 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=__init__
+calls=2 32
+356 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/__init__.py
+fn=default_storage
+5 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+5 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/module_loading.py
+cfn=import_string
+calls=1 9
+5 2
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+cfn=__init__
+calls=1 13
+5 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+fn=_sanitize_token
+111 0
+cfn=<built-in method builtins.len>
+calls=1 0
+111 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=force_text
+calls=1 58
+111 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py
+cfn=search
+calls=1 179
+111 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+fn=_accept
+148 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+fn=_get_token
+165 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=2 51
+165 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+cfn=_sanitize_token
+calls=1 111
+165 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+fn=process_view
+204 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+204 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+cfn=_get_token
+calls=1 165
+204 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+cfn=_accept
+calls=1 148
+204 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+fn=process_response
+318 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+318 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+318 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+fn=__init__
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/client.py
+cfn=__init__
+calls=1 10
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/creation.py
+cfn=__init__
+calls=1 20
+47 0
+cfn=<built-in method _thread.get_ident>
+calls=1 0
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/features.py
+cfn=__init__
+calls=1 230
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/introspection.py
+cfn=__init__
+calls=1 16
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/operations.py
+cfn=__init__
+calls=1 38
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/validation.py
+cfn=__init__
+calls=1 5
+47 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+fn=close_if_unusable_or_obsolete
+502 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/validation.py
+fn=__init__
+5 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/client.py
+fn=__init__
+10 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/creation.py
+fn=__init__
+20 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/features.py
+fn=__init__
+230 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/introspection.py
+fn=__init__
+16 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/backends/base/operations.py
+fn=__init__
+38 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/staticfiles/handlers.py
+fn=_should_handle
+27 0
+cfn=<method 'startswith' of 'str' objects>
+calls=1 0
+27 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/staticfiles/handlers.py
+fn=__call__
+61 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_path_info
+calls=1 171
+61 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/staticfiles/handlers.py
+cfn=_should_handle
+calls=1 27
+61 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=__call__
+calls=1 153
+61 3
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=__init__
+30 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=__init__
+78 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_path_info
+calls=1 171
+78 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+78 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_script_name
+calls=1 180
+78 0
+cfn=<method 'rstrip' of 'str' objects>
+calls=1 0
+78 0
+cfn=<method 'replace' of 'str' objects>
+calls=1 0
+78 0
+cfn=<method 'upper' of 'str' objects>
+calls=1 0
+78 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/cgi.py
+cfn=parse_header
+calls=1 313
+78 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=__init__
+calls=1 30
+78 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=COOKIES
+132 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_str_from_wsgi
+calls=1 227
+132 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/cookie.py
+cfn=parse_cookie
+calls=1 59
+132 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=<listcomp>
+162 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=__call__
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_script_name
+calls=1 180
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/base.py
+cfn=set_script_prefix
+calls=1 103
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=send
+calls=1 170
+153 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=__init__
+calls=1 78
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/base.py
+cfn=get_response
+calls=1 119
+153 3
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=force_text
+calls=1 58
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=reason_phrase
+calls=1 67
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=items
+calls=1 170
+153 0
+cfn=<method 'values' of 'dict' objects>
+calls=1 0
+153 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/handlers.py
+cfn=start_response
+calls=1 212
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=<listcomp>
+calls=1 162
+153 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_path_info
+171 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_bytes_from_wsgi
+calls=2 213
+171 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=repercent_broken_unicode
+calls=2 234
+171 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=2 0
+171 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_script_name
+180 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_bytes_from_wsgi
+calls=6 213
+180 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=2 0
+180 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_bytes_from_wsgi
+213 0
+cfn=<method 'get' of 'dict' objects>
+calls=9 0
+213 0
+cfn=<method 'encode' of 'str' objects>
+calls=9 0
+213 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_str_from_wsgi
+227 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_bytes_from_wsgi
+calls=1 213
+227 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=1 0
+227 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/base.py
+fn=make_view_atomic
+109 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=all
+calls=1 225
+109 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+109 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/base.py
+fn=get_response
+119 0
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+119 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+119 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/base.py
+cfn=set_urlconf
+calls=1 131
+119 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+cfn=inner
+calls=1 38
+119 3
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/base.py
+fn=_get_response
+157 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+157 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=resolve
+calls=1 356
+157 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/urls/resolvers.py
+cfn=__getitem__
+calls=4 55
+157 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/csrf.py
+cfn=process_view
+calls=1 204
+157 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/base.py
+cfn=make_view_atomic
+calls=1 109
+157 0
+cfl=/Users/myang/workspaces/lightweight/devops/app01/views.py
+cfn=index
+calls=1 6
+157 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+fn=inner
+38 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/deprecation.py
+cfn=__call__
+calls=7 135
+38 3
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/core/handlers/base.py
+cfn=_get_response
+calls=1 157
+38 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/handlers.py
+fn=start_response
+212 0
+cfn=<built-in method builtins.len>
+calls=1 0
+212 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/headers.py
+cfn=__init__
+calls=1 31
+212 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/handlers.py
+cfn=_convert_string_type
+calls=7 240
+212 0
+cfn=<method 'isdigit' of 'str' objects>
+calls=1 0
+212 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/util.py
+cfn=is_hop_by_hop
+calls=3 163
+212 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/handlers.py
+fn=_convert_string_type
+240 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/headers.py
+fn=__init__
+31 0
+cfl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/headers.py
+cfn=_convert_string_type
+calls=6 41
+31 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/util.py
+fn=is_hop_by_hop
+163 0
+cfn=<method 'lower' of 'str' objects>
+calls=3 0
+163 0
+cfn=<method '__contains__' of 'dict' objects>
+calls=3 0
+163 0
+
+fl=/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/headers.py
+fn=_convert_string_type
+41 0
+
+fl=/Users/myang/workspaces/lightweight/devops/app01/views.py
+fn=index
+6 0
+cfn=<built-in method builtins.print>
+calls=1 0
+6 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__init__
+calls=1 300
+6 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/clickjacking.py
+fn=process_response
+30 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+30 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=get
+calls=1 173
+30 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__setitem__
+calls=1 150
+30 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/clickjacking.py
+cfn=get_xframe_options_value
+calls=1 43
+30 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/clickjacking.py
+fn=get_xframe_options_value
+43 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+43 0
+cfn=<method 'upper' of 'str' objects>
+calls=1 0
+43 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/middleware.py
+fn=process_response
+14 0
+cfn=<built-in method builtins.hasattr>
+calls=1 0
+14 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=update
+calls=1 129
+14 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/middleware.py
+fn=process_request
+11 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/__init__.py
+cfn=default_storage
+calls=1 5
+11 2
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/auth/middleware.py
+fn=process_request
+17 0
+cfn=<built-in method builtins.hasattr>
+calls=1 0
+17 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__init__
+calls=1 372
+17 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/common.py
+fn=process_request
+44 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=2 51
+44 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+cfn=get_host
+calls=1 95
+44 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/common.py
+cfn=should_redirect_with_slash
+calls=1 72
+44 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/request.py
+cfn=get_full_path
+calls=2 123
+44 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/common.py
+fn=process_response
+106 0
+cfn=<built-in method builtins.len>
+calls=1 0
+106 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+106 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__setitem__
+calls=1 150
+106 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=has_header
+calls=1 164
+106 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/http/response.py
+cfn=content
+calls=1 321
+106 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/common.py
+fn=should_redirect_with_slash
+72 0
+cfn=<method 'endswith' of 'str' objects>
+calls=1 0
+72 0
+
+fn=<method 'disable' of '_lsprof.Profiler' objects>
+0  0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+fn=process_request
+18 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+18 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__get__
+calls=1 32
+18 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+18 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py
+cfn=__init__
+calls=1 17
+18 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+fn=process_response
+22 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+22 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=is_empty
+calls=1 153
+22 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+fn=PickleSerializer
+9 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py
+fn=__init__
+17 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=__init__
+calls=1 47
+17 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=__init__
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 51
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=_set_session_key
+calls=1 183
+47 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/module_loading.py
+cfn=import_string
+calls=1 9
+47 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=is_empty
+153 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=_get_session_key
+calls=1 180
+153 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=_validate_session_key
+173 0
+cfn=<built-in method builtins.len>
+calls=1 0
+173 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=_get_session_key
+180 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=_set_session_key
+183 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=_validate_session_key
+calls=1 173
+183 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/security.py
+fn=process_request
+20 0
+cfn=<method 'lstrip' of 'str' objects>
+calls=1 0
+20 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/middleware/security.py
+fn=process_response
+30 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+fn=<module>
+1 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=2 989
+1 0
+cfn=<built-in method builtins.__build_class__>
+calls=1 0
+1 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+fn=<listcomp>
+15 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=__init__
+calls=1 65
+15 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/session.py
+cfn=__init__
+calls=1 17
+15 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+fn=__init__
+13 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=__init__
+calls=1 65
+13 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+cfn=<listcomp>
+calls=1 15
+13 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+fn=<module>
+1 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_and_load
+calls=3 958
+1 1
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=3 989
+1 0
+cfn=<built-in method builtins.__build_class__>
+calls=1 0
+1 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/fallback.py
+fn=FallbackStorage
+6 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+fn=Message
+10 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+fn=__init__
+65 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+fn=_prepare_messages
+122 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+fn=update
+129 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=_prepare_messages
+calls=1 122
+129 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+fn=BaseStorage
+57 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+fn=<module>
+1 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/utils/six.py
+cfn=python_2_unicode_compatible
+calls=1 828
+1 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=4 989
+1 0
+cfn=<built-in method builtins.__build_class__>
+calls=2 0
+1 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/utils.py
+cfn=get_level_tags
+calls=1 5
+1 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/utils.py
+fn=get_level_tags
+5 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+5 0
+cfn=<method 'copy' of 'dict' objects>
+calls=1 0
+5 0
+cfn=<method 'update' of 'dict' objects>
+calls=1 0
+5 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/utils.py
+fn=<module>
+1 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=2 989
+1 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+fn=MessageEncoder
+11 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+fn=MessageDecoder
+28 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+fn=CookieStorage
+53 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/cookie.py
+fn=<module>
+1 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=6 989
+1 0
+cfn=<built-in method builtins.__build_class__>
+calls=3 0
+1 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/session.py
+fn=__init__
+17 0
+cfn=<built-in method builtins.hasattr>
+calls=1 0
+17 0
+cfl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/base.py
+cfn=__init__
+calls=1 65
+17 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/session.py
+fn=SessionStorage
+11 0
+
+fl=/Users/myang/workspaces/lightweight/env/lib/python3.6/site-packages/django/contrib/messages/storage/session.py
+fn=<module>
+1 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=4 989
+1 0
+cfn=<built-in method builtins.__build_class__>
+calls=1 0
+1 0
+
