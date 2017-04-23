@@ -17,9 +17,16 @@ urlpatterns = (
     url(r'^$', index),
 )
 
+import os
+
+DEBUG = os.environ.get('DEBUG', 'on') == 'on'
+ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
+
+print(ALLOWED_HOSTS)
 settings.configure(
-    DEBUG=True,
-    ROOT_URLCONF=__name__,
+    DEBUG = DEBUG,
+    ROOT_URLCONF = __name__,
+    ALLOWED_HOSTS = ALLOWED_HOSTS,
 )
 
 application = get_wsgi_application()
